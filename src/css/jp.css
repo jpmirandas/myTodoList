@@ -1,1 +1,5 @@
 .empty-field {border-color: red}
+
+ul, li {
+    list-style-type: none;
+}
